@@ -1,6 +1,6 @@
 const FoodCards = (props) => {
   return (
-    <div className={'movie'}>
+    <div className={'food'}>
       <div>
         <p>Quantity - {props.food1.quantity}</p>
       </div>

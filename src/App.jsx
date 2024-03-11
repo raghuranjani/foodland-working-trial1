@@ -1,7 +1,6 @@
 import { useEffect, useState } from 'react';
 import './App.css';
 import SearchIcon from './search.svg';
-import MovieCards from './MovieCards';
 import FoodCards from './FoodCards';
 
 const App = () => {
